@@ -8,3 +8,12 @@ READ THIS PLS
 
  
  Im serious the ```.*.php``` extension is not ```Hack```. I dont really know why Github named ```*.php``` is Hack lmfao
+
+ ---
+
+ License:
+
+ ![image](https://media.discordapp.net/attachments/852828353651802122/858984929609777152/unknown.png?width=1025&height=134)
+
+
+MIT License. [More...](LICENSE)
